@@ -1,2 +1,2 @@
-# muzcradz
-tg muz bot
+# MUZIKCARDSBOT
+card bot in telegram
