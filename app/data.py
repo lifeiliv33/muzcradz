@@ -115,6 +115,7 @@ CARD_IMAGES: dict[tuple[str, str], str] = {
     ('madk1d', 'мир, труд, май'): 'assets/mirtrudmay.png',
     ('9mice', 'u+me/stranger'): 'assets/ume.png',
     ('zavet', 'velvet heaven'): 'assets/velvet.png',
+    ('zavet', 'goth tv'): 'assets/goth tv.png',
     ('Kai Angel', 'are you happy'): 'assets/damage.png',
     ('Kai Angel', 'quiet turn up'): 'assets/quietturnup.png',
     ('Kai Angel', 'lovesong'): 'assets/lovesong.png',
@@ -129,7 +130,10 @@ CARD_IMAGES: dict[tuple[str, str], str] = {
     ('rizza', 'Безумия бездны'): 'assets/bezumiya.png',
     ('rizza', 'Одуванчик'): 'assets/oduvanchik.png',
     ('rizza', 'phunkted'): 'assets/phunkted.png',
-    ('rizza', 'void'): 'assets/void.png',
+    ('rizza', 'void'): 'assets/voidd.png',
+    ('rizza', 'welcome to limbo'): 'assets/welcometolimbo.png',
+    ('rizza', 'Queen'): 'assets/void.png',
+    ('rizza', 'lifeilive'): 'assets/liveilive.png',
     ('Sqwore, rizza', 'Плачь'): 'assets/plach.png',
     ('Sqwore, rizza', 'void'): 'assets/holodgun.png',
     ('17 SEVENTEEN', 'Поцелуи между барами'): 'assets/pochelui.png',
@@ -139,4 +143,5 @@ CARD_IMAGES: dict[tuple[str, str], str] = {
     ('17 SEVENTEEN', 'Конфетка'): 'assets/konfetka.png',
     ('17 SEVENTEEN', 'Мы Смеялись Никто Не Понял'): 'assets/msmeyalis.png',
     ('17 SEVENTEEN', 'Песочный человек'): 'assets/peshocniy.png',
+    
 }
